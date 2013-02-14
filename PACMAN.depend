@@ -1,0 +1,375 @@
+# depslib dependency file v1.0
+1288297299 source:c:\users\bnicolle\packman_project\packman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"baniere.h"
+	"symbol.h"
+	"deplacement.h"
+
+1019849460 source:g:\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1288109553 c:\users\bnicolle\packman_project\packman\conio.h
+	<stdio.h>
+
+1288161292 c:\users\bnicolle\packman_project\packman\arene.h
+
+1288260368 source:c:\users\bnicolle\packman_project\packman\arene.c
+	<stdio.h>
+	"symbol.h"
+
+1288355059 source:c:\users\bnicolle\packman_project\packman\baniere.c
+	"baniere.h"
+	"symbol.h"
+
+1288172999 c:\users\bnicolle\packman_project\packman\baniere.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1288287697 c:\users\bnicolle\packman_project\packman\symbol.h
+
+1288164542 source:c:\users\bnicolle\packman_project\packman\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1288279281 c:\users\bnicolle\packman_project\packman\deplacement.h
+
+1288354400 source:c:\users\bnicolle\packman_project\packman\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"symbol.h"
+	"deplacement.h"
+
+1288269755 source:c:\users\bnicolle\packman_project\packman\fantomes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"symbol.h"
+	"deplacement.h"
+
+1288273710 source:c:\users\bnicolle\packman_project\packman\depla_fantomes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"symbol.h"
+	"depla_fantomes.h"
+
+1288273533 c:\users\bnicolle\packman_project\packman\depla_fantomes.h
+
+1288298387 source:c:\users\bnicolle\packman_project\packman\deplacement_3.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"symbol.h"
+	"deplacement.h"
+
+1288298387 source:c:\users\bnicolle\packman_project\packman\deplacement_2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"symbol.h"
+	"deplacement.h"
+
+1288367662 source:c:\users\bnicolle\desktop\pac-man\baniere.c
+	"baniere.h"
+	"symbol.h"
+
+1288172999 c:\users\bnicolle\desktop\pac-man\baniere.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1288820290 c:\users\bnicolle\desktop\pac-man\symbol.h
+
+1288160942 source:c:\users\bnicolle\desktop\pac-man\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1288372280 source:c:\users\bnicolle\desktop\pac-man\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"symbol.h"
+	"deplacement.h"
+
+1288369731 c:\users\bnicolle\desktop\pac-man\arene.h
+
+1288635026 c:\users\bnicolle\desktop\pac-man\deplacement.h
+
+1288372280 source:c:\users\bnicolle\desktop\pac-man\deplacement_2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"symbol.h"
+	"deplacement.h"
+
+1288372280 source:c:\users\bnicolle\desktop\pac-man\deplacement_3.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"symbol.h"
+	"deplacement.h"
+
+1289037665 source:c:\users\bnicolle\desktop\pac-man\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"banniere.h"
+	"symbol.h"
+	"deplacement.h"
+
+1289038167 source:c:\users\bnicolle\desktop\pac-man\arene.c
+	<stdio.h>
+	<stdlib.h>
+	"symbol.h"
+
+1288371815 source:c:\users\bnicolle\desktop\pac-man\deplace_perso.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"symbol.h"
+	"deplacement.h"
+
+1289038152 source:c:\users\bnicolle\desktop\pac-man\deplace_niv_1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"Arene.h"
+	"symbol.h"
+	"deplacement.h"
+
+1289038152 source:c:\users\bnicolle\desktop\pac-man\deplace_niv_2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"Arene.h"
+	"symbol.h"
+	"deplacement.h"
+
+1289038152 source:c:\users\bnicolle\desktop\pac-man\deplace_niv_3.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"Arene.h"
+	"symbol.h"
+	"deplacement.h"
+
+1289038170 source:c:\users\bnicolle\desktop\pac-man\banniere.c
+	<stdio.h>
+	<stdlib.h>
+	"banniere.h"
+	"symbol.h"
+
+1288370276 c:\users\bnicolle\desktop\pac-man\banniere.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1289038155 source:c:\users\bnicolle\desktop\pac-man\over.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"symbol.h"
+
+1294518680 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\banniere.c
+	"lib.h"
+
+1293119009 c:\users\bnicolle\desktop\ecole\pacman\pac-man\banniere.h
+
+1294483725 c:\users\bnicolle\desktop\ecole\pacman\pac-man\symbol.h
+
+1288160942 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1294518644 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\deplace_niv_1.c
+	"lib.h"
+
+1293189670 c:\users\bnicolle\desktop\ecole\pacman\pac-man\arene.h
+
+1293118171 c:\users\bnicolle\desktop\ecole\pacman\pac-man\deplacement.h
+
+1294518635 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\deplace_niv_2.c
+	"lib.h"
+
+1294518617 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\deplace_niv_3.c
+	"lib.h"
+
+1294517428 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\main.c
+	"lib.h"
+
+1294518714 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\arene.c
+	"lib.h"
+
+1293271904 c:\users\bnicolle\desktop\ecole\pacman\pac-man\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"banniere.h"
+	"symbol.h"
+	"deplacement.h"
+	"over.h"
+	"record_score.h"
+	"foot.h"
+	"affichage_score.h"
+
+1294516949 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\over.c
+	"lib.h"
+
+1293013296 c:\users\bnicolle\desktop\ecole\pacman\pac-man\over.h
+
+1292968080 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\ressources.rc
+
+1294611693 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\resources.rc
+
+1293015767 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\deplacement.c
+	"lib.h"
+
+1294517492 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\foot.c
+	"lib.h"
+
+1294514115 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\record_score.c
+	"lib.h"
+
+1293185990 c:\users\bnicolle\desktop\ecole\pacman\pac-man\record_score.h
+
+1293139784 c:\users\bnicolle\desktop\ecole\pacman\pac-man\foot.h
+
+1293027426 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\dep.c
+	"lib.h"
+
+1293184774 c:\users\bnicolle\desktop\ecole\pacman\pac-man\lecture_points.h
+
+1293184418 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\lecture_points.c
+	"lib.h"
+
+1293273248 c:\users\bnicolle\desktop\ecole\pacman\pac-man\affichage_score.h
+
+1294516886 source:c:\users\bnicolle\desktop\ecole\pacman\pac-man\affichage_score.c
+	"lib.h"
+
+1294747943 source:c:\users\bnicolle\desktop\pacman\pac-man\affichage_score.c
+	"lib.h"
+
+1293271904 c:\users\bnicolle\desktop\pacman\pac-man\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"banniere.h"
+	"symbol.h"
+	"deplacement.h"
+	"over.h"
+	"record_score.h"
+	"foot.h"
+	"affichage_score.h"
+
+1293189670 c:\users\bnicolle\desktop\pacman\pac-man\arene.h
+
+1293119009 c:\users\bnicolle\desktop\pacman\pac-man\banniere.h
+
+1294483725 c:\users\bnicolle\desktop\pacman\pac-man\symbol.h
+
+1293118171 c:\users\bnicolle\desktop\pacman\pac-man\deplacement.h
+
+1293013296 c:\users\bnicolle\desktop\pacman\pac-man\over.h
+
+1293185990 c:\users\bnicolle\desktop\pacman\pac-man\record_score.h
+
+1293139784 c:\users\bnicolle\desktop\pacman\pac-man\foot.h
+
+1293273248 c:\users\bnicolle\desktop\pacman\pac-man\affichage_score.h
+
+1294518714 source:c:\users\bnicolle\desktop\pacman\pac-man\arene.c
+	"lib.h"
+
+1294518680 source:c:\users\bnicolle\desktop\pacman\pac-man\banniere.c
+	"lib.h"
+
+1288160942 source:c:\users\bnicolle\desktop\pacman\pac-man\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1294746893 source:c:\users\bnicolle\desktop\pacman\pac-man\deplace_niv_1.c
+	"lib.h"
+
+1294746949 source:c:\users\bnicolle\desktop\pacman\pac-man\deplace_niv_2.c
+	"lib.h"
+
+1294746935 source:c:\users\bnicolle\desktop\pacman\pac-man\deplace_niv_3.c
+	"lib.h"
+
+1294517492 source:c:\users\bnicolle\desktop\pacman\pac-man\foot.c
+	"lib.h"
+
+1294747527 source:c:\users\bnicolle\desktop\pacman\pac-man\main.c
+	"lib.h"
+
+1294516949 source:c:\users\bnicolle\desktop\pacman\pac-man\over.c
+	"lib.h"
+
+1294514115 source:c:\users\bnicolle\desktop\pacman\pac-man\record_score.c
+	"lib.h"
+
+1294611693 source:c:\users\bnicolle\desktop\pacman\pac-man\resources.rc
+

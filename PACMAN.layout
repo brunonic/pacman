@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="affichage_score.c" open="0" top="0" tabpos="2">
+		<Cursor position="719" topLine="4" />
+	</File>
+	<File name="affichage_score.h" open="0" top="0" tabpos="3">
+		<Cursor position="80" topLine="0" />
+	</File>
+	<File name="arene.c" open="0" top="0" tabpos="1">
+		<Cursor position="20757" topLine="377" />
+	</File>
+	<File name="arene.h" open="0" top="0" tabpos="9">
+		<Cursor position="160" topLine="0" />
+	</File>
+	<File name="banniere.c" open="1" top="0" tabpos="2">
+		<Cursor position="502" topLine="22" />
+	</File>
+	<File name="banniere.h" open="0" top="0" tabpos="1">
+		<Cursor position="56" topLine="0" />
+	</File>
+	<File name="conio.c" open="0" top="0" tabpos="4">
+		<Cursor position="3683" topLine="0" />
+	</File>
+	<File name="deplace_niv_1.c" open="0" top="0" tabpos="2">
+		<Cursor position="2252" topLine="44" />
+	</File>
+	<File name="deplace_niv_2.c" open="0" top="0" tabpos="2">
+		<Cursor position="34520" topLine="729" />
+	</File>
+	<File name="deplace_niv_3.c" open="0" top="0" tabpos="2">
+		<Cursor position="13655" topLine="219" />
+	</File>
+	<File name="deplacement.h" open="0" top="0" tabpos="11">
+		<Cursor position="64" topLine="0" />
+	</File>
+	<File name="foot.c" open="1" top="0" tabpos="1">
+		<Cursor position="290" topLine="12" />
+	</File>
+	<File name="foot.h" open="0" top="0" tabpos="0">
+		<Cursor position="112" topLine="0" />
+	</File>
+	<File name="lib.h" open="0" top="0" tabpos="0">
+		<Cursor position="1" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="3">
+		<Cursor position="3670" topLine="82" />
+	</File>
+	<File name="over.c" open="0" top="0" tabpos="7">
+		<Cursor position="344" topLine="1" />
+	</File>
+	<File name="over.h" open="0" top="0" tabpos="12">
+		<Cursor position="94" topLine="0" />
+	</File>
+	<File name="record_score.c" open="0" top="0" tabpos="3">
+		<Cursor position="181" topLine="10" />
+	</File>
+	<File name="record_score.h" open="0" top="0" tabpos="0">
+		<Cursor position="143" topLine="0" />
+	</File>
+	<File name="resources.rc" open="0" top="0" tabpos="1">
+		<Cursor position="171" topLine="0" />
+	</File>
+	<File name="symbol.h" open="0" top="0" tabpos="4">
+		<Cursor position="477" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

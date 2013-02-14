@@ -1,0 +1,144 @@
+_____________________________________________________________
+						   Retour: R
+
+         ######		       _____   ______  _____
+       ##########	      /\  _ `\/\  _  \/\  _ `\
+     ##############	      \ \ \L\ \ \ \L\ \ \ \/\_\
+    ########## #####	       \ \ ,__/\ \  __ \ \ \/_/_
+   ##################		\ \ \/  \ \ \/\ \ \ \L\ \
+  #################	    	 \ \_\   \ \_\ \_\ \____/
+  ##############	 ##	  \/_/    \/_/\/_/\/___/
+  ###########		####
+  ##############	 ##            ______  __  __
+  #################	       /'\_/`\/\  _  \/\ \/\ \
+   ##################	      /\      \ \ \L\ \ \ `\\ \
+    ################	      \ \ \__\ \ \  __ \ \ , ` \
+     ############## 	       \ \ \_/\ \ \ \/\ \ \ \`\ \
+       ##########		\ \_\\ \_\ \_\ \_\ \_\ \_\
+         ######			 \/_/ \/_/\/_/\/_/\/_/\/_/
+
+_____________________________________________________________
+
+   | Scores de la plus ancienne a la plus recente partie |
+
+
+  Joueur: Bruno
+  Score: 200
+  Mode: FACILE
+  Nombre de points restants: 277
+  Le: Sat Dec 25 12:36:08 2010
+
+-------------
+
+  Joueur: Bruno
+  Score: 150
+  Mode: FACILE
+  Nombre de points restants: 282
+  Le: Sun Jan 02 15:24:29 2011
+
+-------------
+
+  Joueur: Bruno
+  Score: 280
+  Mode: FACILE
+  Nombre de points restants: 269
+  Le: Sun Jan 02 15:26:36 2011
+
+-------------
+
+  Joueur: Bruno
+  Score: 190
+  Mode: FACILE
+  Nombre de points restants: 274
+  Le: Thu Jan 06 22:39:32 2011
+
+-------------
+
+  Joueur: Bruno
+  Score: 200
+  Mode: FACILE
+  Nombre de points restants: 277
+  Le: Sun Jan 09 13:13:20 2011
+
+-------------
+
+  Joueur: bruno
+  Score: 245
+  Mode: FACILE
+  Nombre de points restants: 269
+  Le: Mon Jan 10 08:55:27 2011
+
+-------------
+
+  Joueur: Toto
+  Score: 245
+  Mode: FACILE
+  Nombre de points restants: 269
+  Le: Mon Jan 10 08:56:57 2011
+
+-------------
+
+  Joueur: test
+  Score: 215
+  Mode: MOYEN
+  Nombre de points restants: 274
+  Le: Tue Jan 11 12:59:30 2011
+
+-------------
+
+  Joueur: test
+  Score: 225
+  Mode: MOYEN
+  Nombre de points restants: 273
+  Le: Tue Jan 11 12:59:30 2011
+
+-------------
+
+  Joueur: test3
+  Score: 140
+  Mode: DIFFICILE
+  Nombre de points restants: 291
+  Le: Tue Jan 11 13:00:28 2011
+
+-------------
+
+  Joueur: bruno
+  Score: 320
+  Mode: FACILE
+  Nombre de points restants: 264
+  Le: Tue Jan 11 22:34:24 2011
+
+-------------
+
+  Joueur: Bruno
+  Score: 2035
+  Mode: DIFFICILE
+  Nombre de points restants: 164
+  Le: Tue Jan 11 22:39:03 2011
+
+-------------
+
+  Joueur: br
+  Score: 1755
+  Mode: FACILE
+  Nombre de points restants: 205
+  Le: Wed Jan 12 08:23:08 2011
+
+-------------
+
+  Joueur: Bruno
+  Score: 90
+  Mode: MOYEN
+  Nombre de points restants: 292
+  Le: Wed Jan 12 09:45:51 2011
+
+-------------
+
+  Joueur: f
+  Score: 385
+  Mode: MOYEN
+  Nombre de points restants: 256
+  Le: Wed Jan 12 09:46:02 2011
+
+-------------
+

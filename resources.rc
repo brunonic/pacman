@@ -1,0 +1,13 @@
+/*
+
+Fichier : resources.rc
+
+Auteur : Nicolle.B
+
+Description : Affichage de l'icone du .exe et de l'icone console
+
+Date : 21/12/2010
+
+*/
+
+1 ICON "pacmanicon.ico"
