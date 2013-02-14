@@ -373,3 +373,74 @@
 
 1294611693 source:c:\users\bnicolle\desktop\pacman\pac-man\resources.rc
 
+1360882580 source:c:\users\bruno\documents\github\c-program-pacman\affichage_score.c
+	"lib.h"
+
+1360882580 c:\users\bruno\documents\github\c-program-pacman\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Arene.h"
+	"banniere.h"
+	"symbol.h"
+	"deplacement.h"
+	"over.h"
+	"record_score.h"
+	"foot.h"
+	"affichage_score.h"
+
+1360882580 c:\users\bruno\documents\github\c-program-pacman\arene.h
+
+1360882580 c:\users\bruno\documents\github\c-program-pacman\banniere.h
+
+1360882581 c:\users\bruno\documents\github\c-program-pacman\symbol.h
+
+1360882580 c:\users\bruno\documents\github\c-program-pacman\deplacement.h
+
+1360882581 c:\users\bruno\documents\github\c-program-pacman\over.h
+
+1360882581 c:\users\bruno\documents\github\c-program-pacman\record_score.h
+
+1360882580 c:\users\bruno\documents\github\c-program-pacman\foot.h
+
+1360882580 c:\users\bruno\documents\github\c-program-pacman\affichage_score.h
+
+1360882580 source:c:\users\bruno\documents\github\c-program-pacman\arene.c
+	"lib.h"
+
+1360882580 source:c:\users\bruno\documents\github\c-program-pacman\banniere.c
+	"lib.h"
+
+1360882580 source:c:\users\bruno\documents\github\c-program-pacman\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1360882580 source:c:\users\bruno\documents\github\c-program-pacman\deplace_niv_1.c
+	"lib.h"
+
+1360882580 source:c:\users\bruno\documents\github\c-program-pacman\deplace_niv_2.c
+	"lib.h"
+
+1360882580 source:c:\users\bruno\documents\github\c-program-pacman\deplace_niv_3.c
+	"lib.h"
+
+1360882580 source:c:\users\bruno\documents\github\c-program-pacman\foot.c
+	"lib.h"
+
+1360882580 source:c:\users\bruno\documents\github\c-program-pacman\main.c
+	"lib.h"
+
+1360882581 source:c:\users\bruno\documents\github\c-program-pacman\over.c
+	"lib.h"
+
+1360882581 source:c:\users\bruno\documents\github\c-program-pacman\record_score.c
+	"lib.h"
+
+1360882581 source:c:\users\bruno\documents\github\c-program-pacman\resources.rc
+
