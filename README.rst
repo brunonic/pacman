@@ -7,7 +7,7 @@ It allows you to integrate editable slots in your application.
 Installation
 ------------
 
-Step 1: Download and install dependencies.
+**Step 1: Download.**
 
 `Download`_ the bundle and put it under the ``Elao\CmsSlotBundle\`` namespace.
 
@@ -28,7 +28,7 @@ Update your composer.phar::
     $ php composer.phar update
 
 
-Step 2: Register bundles with AppKernel.php.
+**Step 2: Register bundles with AppKernel.php.**
 
 Include it in your Kernel class::
 
