@@ -23,14 +23,14 @@ Via composer::
         }
     }
 
-Do a::
+:
 
     $ php composer.phar update
 
 
 Step 2: Register bundles with AppKernel.php.
 
-Then include it in your Kernel class::
+Include it in your Kernel class::
 
 
     // app/AppKernel.php
