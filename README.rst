@@ -23,7 +23,7 @@ Via composer::
         }
     }
 
-
+Do a::
 
     $ php composer.phar update
 
