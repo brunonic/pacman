@@ -1,7 +1,7 @@
 C Program PacMan
 =============
 
-It is a game in C language Made for fun.
+It is a ** game in C** language Made for fun.
 You can contribute to this project but the console has its limits.
 All comments are in French.
 
